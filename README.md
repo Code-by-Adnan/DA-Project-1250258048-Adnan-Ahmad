@@ -35,14 +35,10 @@ Video Link: [Insert Reference Video Link Here]
 
 ## Key Findings
 1. Flipkart Top Performers: Across the 100-order sample, "Jeans" emerged as the best-selling product with 29 units sold, while "Beauty" stood out as the leading category, contributing 26.5% of the total revenue.   
-PDF
-+ 1
 
 2. Flipkart Discount Impact: Analysis revealed a negligible correlation (0.01) between discount depth and quantity sold, indicating that heavier discounting did not drive higher unit sales or improve customer ratings.   
-PDF
 
 3. Superstore Customer Loyalty: The Superstore dataset showed exceptional customer retention, with 98.5% of the 793 active customers placing repeat orders, resulting in an average revenue of $2,897 per customer.   
-PDF
 
 4. Superstore Regional Sales: Total sales for the Superstore dataset reached $2,297,200.86, with the West region leading geographical demand by generating $725,458 in revenue.   
 PDF
