@@ -1,0 +1,101 @@
+Order ID,Product Name,Category,Price (INR),Quantity Sold,Total Sales (INR),Order Date,Payment Method,Customer Rating,Month,Year,Profit (INR),Discount %,Customer Segment,Region
+ORD00001,Educational Book,Books,49069.56,2,98139.12,12-09-2024,Debit Card,3.5,September,2024,19627.824,11,Online,West
+ORD00002,Jeans,Clothing,12755.85,4,51023.4,18-12-2024,UPI,3.9,December,2024,10204.68,24,Wholesale,North
+ORD00003,Face Cream,Beauty,11092.19,4,44368.76,18-05-2024,Debit Card,4.4,May,2024,8873.752,19,Online,South
+ORD00004,Smartwatch,Electronics,32657.81,1,32657.81,08-11-2024,Debit Card,3.2,November,2024,6531.562,15,Online,North
+ORD00005,Cookware Set,Home & Kitchen,26590.08,3,79770.24,27-12-2024,UPI,3.1,December,2024,15954.048,12,Retail,North
+ORD00006,Mixer Grinder,Home & Kitchen,10475.03,2,20950.06,22-10-2024,Wallet,1.7,October,2024,4190.012,25,Wholesale,North
+ORD00007,Sneakers,Clothing,38647.72,3,115943.16,04-07-2024,Wallet,2,July,2024,23188.632,11,Wholesale,North
+ORD00008,Table Lamp,Home & Kitchen,24818.59,3,74455.77,27-12-2024,Debit Card,2.4,December,2024,14891.154,30,Wholesale,South
+ORD00009,Jacket,Clothing,1987.39,2,3974.78,18-01-2025,Debit Card,2.6,January,2025,794.956,23,Online,North
+ORD00010,Tablet,Electronics,26876.51,2,53753.02,14-03-2024,Debit Card,4,March,2024,10750.604,27,Online,North
+ORD00011,Perfume,Beauty,46409.57,5,232047.85,08-02-2025,UPI,2.3,February,2025,46409.57,15,Online,West
+ORD00012,Lipstick,Beauty,48780.78,5,243903.9,13-04-2024,UPI,1.3,April,2024,48780.78,15,Retail,South
+ORD00013,Educational Book,Books,6670.82,5,33354.1,23-02-2024,COD,1.2,February,2024,6670.82,28,Online,South
+ORD00014,Smartphone,Electronics,10826.05,1,10826.05,02-06-2024,Wallet,3.7,June,2024,2165.21,25,Retail,East
+ORD00015,Comic Book,Books,6839.1,1,6839.1,12-09-2024,Credit Card,1.6,September,2024,1367.82,8,Wholesale,South
+ORD00016,Mixer Grinder,Home & Kitchen,18197.89,5,90989.45,30-03-2024,Debit Card,1.6,March,2024,18197.89,12,Online,South
+ORD00017,Cookbook,Books,20817.46,2,41634.92,30-03-2024,Debit Card,2.3,March,2024,8326.984,28,Retail,East
+ORD00018,Perfume,Beauty,44061.25,4,176245,22-04-2024,COD,2.5,April,2024,35249,7,Retail,South
+ORD00019,Cookbook,Books,4398.59,5,21992.95,22-03-2024,Wallet,4,March,2024,4398.59,26,Online,South
+ORD00020,T-Shirt,Clothing,32565.77,5,162828.85,06-01-2025,COD,4.4,January,2025,32565.77,25,Wholesale,South
+ORD00021,Cookware Set,Home & Kitchen,47529.36,1,47529.36,09-07-2024,Net Banking,4.5,July,2024,9505.872,6,Wholesale,South
+ORD00022,Jeans,Clothing,37129.73,3,111389.19,22-01-2025,Wallet,4.3,January,2025,22277.838,28,Wholesale,East
+ORD00023,Educational Book,Books,48258.19,4,193032.76,23-06-2024,UPI,1.6,June,2024,38606.552,16,Retail,South
+ORD00024,Bedsheet,Home & Kitchen,32505.96,1,32505.96,19-03-2024,Wallet,2.8,March,2024,6501.192,10,Retail,South
+ORD00025,Cookware Set,Home & Kitchen,4165.64,2,8331.28,24-11-2024,COD,1.1,November,2024,1666.256,6,Retail,East
+ORD00026,T-Shirt,Clothing,2053.11,4,8212.44,23-07-2024,COD,3.4,July,2024,1642.488,25,Retail,West
+ORD00027,Jeans,Clothing,38927.62,4,155710.48,24-08-2024,Wallet,2.5,August,2024,31142.096,5,Wholesale,North
+ORD00028,Mixer Grinder,Home & Kitchen,28978.47,4,115913.88,21-07-2024,UPI,2.3,July,2024,23182.776,16,Online,West
+ORD00029,Lipstick,Beauty,21293.42,5,106467.1,16-04-2024,Wallet,2.2,April,2024,21293.42,30,Retail,East
+ORD00030,Lipstick,Beauty,49097.01,4,196388.04,05-08-2024,Credit Card,3.7,August,2024,39277.608,26,Retail,North
+ORD00031,Perfume,Beauty,47651.19,1,47651.19,14-04-2024,Net Banking,3.6,April,2024,9530.238,16,Wholesale,East
+ORD00032,Hair Dryer,Beauty,15046.01,5,75230.05,17-10-2024,COD,1.1,October,2024,15046.01,29,Online,East
+ORD00033,Laptop,Electronics,36980.1,3,110940.3,01-10-2024,COD,3.2,October,2024,22188.06,21,Online,South
+ORD00034,Table Lamp,Home & Kitchen,38144.67,2,76289.34,15-07-2024,Net Banking,3.1,July,2024,15257.868,14,Wholesale,North
+ORD00035,Laptop,Electronics,49355.45,2,98710.9,01-05-2024,COD,3.5,May,2024,19742.18,20,Wholesale,South
+ORD00036,Shampoo,Beauty,12945.96,3,38837.88,10-06-2024,Wallet,1.4,June,2024,7767.576,19,Online,North
+ORD00037,Perfume,Beauty,34927.79,4,139711.16,27-06-2024,Credit Card,1.1,June,2024,27942.232,19,Retail,East
+ORD00038,Table Lamp,Home & Kitchen,3677.4,3,11032.2,31-07-2024,UPI,3.7,July,2024,2206.44,23,Online,East
+ORD00039,Comic Book,Books,37004.54,4,148018.16,26-10-2024,Debit Card,4,October,2024,29603.632,16,Wholesale,West
+ORD00040,Cookbook,Books,27961.78,5,139808.9,23-02-2024,Net Banking,4,February,2024,27961.78,27,Retail,North
+ORD00041,Comic Book,Books,2655.8,2,5311.6,12-02-2024,Net Banking,3.7,February,2024,1062.32,24,Retail,South
+ORD00042,Headphones,Electronics,965.51,4,3862.04,06-06-2024,COD,3.5,June,2024,772.408,29,Wholesale,West
+ORD00043,Bedsheet,Home & Kitchen,2980.08,3,8940.24,14-12-2024,Net Banking,4.2,December,2024,1788.048,7,Wholesale,West
+ORD00044,Mixer Grinder,Home & Kitchen,8598.58,1,8598.58,09-10-2024,Debit Card,1.1,October,2024,1719.716,9,Wholesale,West
+ORD00045,Shampoo,Beauty,31850.15,2,63700.3,14-04-2024,Net Banking,2.8,April,2024,12740.06,23,Online,South
+ORD00046,Smartwatch,Electronics,33443.32,5,167216.6,15-02-2024,UPI,2.4,February,2024,33443.32,11,Online,West
+ORD00047,Jacket,Clothing,29592.5,5,147962.5,25-07-2024,Net Banking,4.7,July,2024,29592.5,25,Retail,South
+ORD00048,Hair Dryer,Beauty,11187.38,4,44749.52,22-06-2024,Wallet,2.3,June,2024,8949.904,13,Wholesale,West
+ORD00049,Bedsheet,Home & Kitchen,23898.58,5,119492.9,28-11-2024,Credit Card,3.3,November,2024,23898.58,11,Retail,South
+ORD00050,Comic Book,Books,1391.49,4,5565.96,11-08-2024,Credit Card,4.5,August,2024,1113.192,22,Retail,East
+ORD00051,Jeans,Clothing,18607.69,5,93038.45,10-09-2024,COD,2.4,September,2024,18607.69,8,Retail,East
+ORD00052,Fiction Novel,Books,46224.88,3,138674.64,30-10-2024,Credit Card,4.1,October,2024,27734.928,29,Retail,East
+ORD00053,Tablet,Electronics,11864.13,5,59320.65,11-11-2024,Debit Card,1.3,November,2024,11864.13,18,Wholesale,East
+ORD00054,Comic Book,Books,7757.2,5,38786,22-11-2024,Wallet,2.2,November,2024,7757.2,22,Retail,East
+ORD00055,Smartwatch,Electronics,29745,1,29745,04-10-2024,UPI,3.6,October,2024,5949,30,Wholesale,West
+ORD00056,Jeans,Clothing,39176.54,5,195882.7,04-04-2024,Net Banking,4.1,April,2024,39176.54,13,Wholesale,West
+ORD00057,Jeans,Clothing,18075.19,5,90375.95,03-09-2024,Debit Card,1.7,September,2024,18075.19,30,Online,West
+ORD00058,Self-Help Book,Books,18830.59,4,75322.36,16-05-2024,Net Banking,3.6,May,2024,15064.472,25,Wholesale,South
+ORD00059,Headphones,Electronics,38476.48,4,153905.92,30-08-2024,Credit Card,2,August,2024,30781.184,6,Online,South
+ORD00060,Laptop,Electronics,27120.36,2,54240.72,13-06-2024,Credit Card,3.8,June,2024,10848.144,24,Wholesale,South
+ORD00061,Cookbook,Books,31627,5,158135,28-07-2024,Debit Card,3.1,July,2024,31627,19,Wholesale,South
+ORD00062,Comic Book,Books,14505.79,3,43517.37,10-07-2024,UPI,3.9,July,2024,8703.474,11,Wholesale,East
+ORD00063,Smartwatch,Electronics,15229.67,3,45689.01,21-07-2024,Credit Card,2.7,July,2024,9137.802,16,Online,East
+ORD00064,Table Lamp,Home & Kitchen,2158.12,3,6474.36,02-01-2025,COD,3.4,January,2025,1294.872,12,Online,East
+ORD00065,Lipstick,Beauty,11106.19,2,22212.38,22-12-2024,Wallet,1.1,December,2024,4442.476,19,Retail,North
+ORD00066,Educational Book,Books,21690.55,2,43381.1,28-11-2024,Credit Card,1.9,November,2024,8676.22,7,Online,West
+ORD00067,Hair Dryer,Beauty,4225.69,4,16902.76,06-05-2024,Credit Card,2.5,May,2024,3380.552,18,Online,South
+ORD00068,Smartwatch,Electronics,23621.02,1,23621.02,26-02-2024,Wallet,4.7,February,2024,4724.204,21,Online,South
+ORD00069,Educational Book,Books,38937.92,3,116813.76,08-04-2024,Credit Card,3.4,April,2024,23362.752,8,Online,East
+ORD00070,Cookware Set,Home & Kitchen,2707.97,1,2707.97,28-04-2024,Net Banking,1.2,April,2024,541.594,22,Retail,South
+ORD00071,Face Cream,Beauty,23715.42,4,94861.68,24-03-2024,COD,2,March,2024,18972.336,12,Online,South
+ORD00072,Tablet,Electronics,9083.5,2,18167,05-07-2024,UPI,1.8,July,2024,3633.4,8,Wholesale,West
+ORD00073,Lipstick,Beauty,26379.35,4,105517.4,07-09-2024,UPI,3,September,2024,21103.48,6,Wholesale,East
+ORD00074,Jacket,Clothing,34023.96,3,102071.88,13-02-2024,Credit Card,4.6,February,2024,20414.376,10,Online,West
+ORD00075,Sneakers,Clothing,1542.1,4,6168.4,25-08-2024,Credit Card,1,August,2024,1233.68,26,Online,North
+ORD00076,Fiction Novel,Books,42981.08,3,128943.24,25-03-2024,COD,3.8,March,2024,25788.648,14,Wholesale,North
+ORD00077,Sofa Cover,Home & Kitchen,46338.29,5,231691.45,22-03-2024,COD,3.4,March,2024,46338.29,8,Wholesale,North
+ORD00078,Headphones,Electronics,34161.44,1,34161.44,30-06-2024,Wallet,2.4,June,2024,6832.288,26,Retail,East
+ORD00079,Lipstick,Beauty,21317.31,5,106586.55,16-07-2024,Credit Card,4,July,2024,21317.31,22,Wholesale,South
+ORD00080,Face Cream,Beauty,46011.84,4,184047.36,01-05-2024,COD,3.3,May,2024,36809.472,30,Wholesale,East
+ORD00081,Perfume,Beauty,2097.99,1,2097.99,09-02-2025,Debit Card,3.2,February,2025,419.598,16,Online,East
+ORD00082,Smartphone,Electronics,17104.91,3,51314.73,10-12-2024,Credit Card,2.7,December,2024,10262.946,6,Wholesale,South
+ORD00083,Sofa Cover,Home & Kitchen,29326.6,3,87979.8,07-11-2024,Credit Card,4.9,November,2024,17595.96,14,Retail,West
+ORD00084,Headphones,Electronics,28892.73,4,115570.92,11-11-2024,COD,1.3,November,2024,23114.184,8,Wholesale,North
+ORD00085,Tablet,Electronics,35033.12,4,140132.48,03-12-2024,UPI,4.7,December,2024,28026.496,18,Online,West
+ORD00086,Jeans,Clothing,40069.3,3,120207.9,27-10-2024,Debit Card,2.4,October,2024,24041.58,20,Online,North
+ORD00087,Comic Book,Books,20613.14,4,82452.56,30-05-2024,UPI,3.4,May,2024,16490.512,19,Wholesale,East
+ORD00088,Cookware Set,Home & Kitchen,3432,5,17160,12-04-2024,Credit Card,3.4,April,2024,3432,12,Online,North
+ORD00089,Shampoo,Beauty,25752.65,3,77257.95,28-06-2024,Net Banking,2.5,June,2024,15451.59,18,Retail,East
+ORD00090,Smartwatch,Electronics,30238.47,2,60476.94,24-09-2024,Net Banking,4,September,2024,12095.388,27,Retail,West
+ORD00091,Bedsheet,Home & Kitchen,34293.38,4,137173.52,01-04-2024,Net Banking,4.4,April,2024,27434.704,29,Wholesale,East
+ORD00092,Perfume,Beauty,19498.32,2,38996.64,23-11-2024,Credit Card,3.6,November,2024,7799.328,12,Wholesale,West
+ORD00093,T-Shirt,Clothing,39355.59,1,39355.59,22-10-2024,Wallet,2.9,October,2024,7871.118,25,Wholesale,South
+ORD00094,Cookbook,Books,26575.86,2,53151.72,23-05-2024,Wallet,2,May,2024,10630.344,20,Online,South
+ORD00095,Headphones,Electronics,12506.31,3,37518.93,12-01-2025,UPI,1.4,January,2025,7503.786,17,Retail,South
+ORD00096,T-Shirt,Clothing,19180.77,3,57542.31,28-01-2025,Wallet,3.9,January,2025,11508.462,22,Retail,East
+ORD00097,Bedsheet,Home & Kitchen,8877.51,5,44387.55,31-05-2024,UPI,2.5,May,2024,8877.51,19,Online,South
+ORD00098,Sneakers,Clothing,32348.92,2,64697.84,02-02-2025,Credit Card,3.1,February,2025,12939.568,25,Retail,North
+ORD00099,Smartwatch,Electronics,19375.76,2,38751.52,06-12-2024,Credit Card,2.1,December,2024,7750.304,28,Wholesale,West
+ORD00100,Educational Book,Books,48157.93,1,48157.93,05-09-2024,COD,2.4,September,2024,9631.586,30,Wholesale,West
